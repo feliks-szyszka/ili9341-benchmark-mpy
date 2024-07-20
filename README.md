@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# ILI9341 SPI Graphics Benchmark - Micropython
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This is a simple Micropython Graphics benchmark to determine how fast microcontrollers are rendering 2d graphics via SPI. Enjoy! :)
